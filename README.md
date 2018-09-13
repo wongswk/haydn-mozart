@@ -3,7 +3,7 @@ Classification of Haydn and Mozart String Quartets
 
 We provide the dataset and code used to classify string quartet movements as being composed by either Haydn or Mozart. 
 
-The repository contains 292 ** kern files obtained from the KernScores website http://kern.ccarh.org/ (maintained by the Center for Computer Assisted Research in the Humanities at Stanford University). Additionally, we provide 3 code scripts written in the statistical programming language R. 
+The repository contains 292 ** kern files obtained from the KernScores website http://kern.ccarh.org/ (maintained by the Center for Computer Assisted Research in the Humanities at Stanford University). Additionally, we provide 3 code scripts written in the statistical programming language R. Please set your R working directory to the location of your local repository before running the scripts.
 
 Our first script Clean_Music_Data.R reads in the ** kern files, cleans the data, and encodes the pitch and duration values in each movement. Our resulting dataset consists of 285 movements total, 82 composed by Mozart and 203 composed by Haydn. The resulting cleaned dataframes (3 for each of the 285 movements) get saved to a specified R workspace. 
 

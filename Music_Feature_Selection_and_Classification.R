@@ -11,7 +11,7 @@ library(ggpubr)
 library(lattice)
 
 #Define the path where Feature.csv is saved
-fpath="C:\\Users\\Katie\\Documents\\RFiles\\String_Quartet_Classification\\"
+fpath="data/"
 
 #______________________________ Define functions ________________________#
 

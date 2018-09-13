@@ -1,5 +1,5 @@
 #Set the path where your kern files are saved
-fpath="C:\\Users\\Katie\\Documents\\RFiles\\String_Quartet_Classification\\"
+fpath="data/"
 
 #Load necessary libraries 
 library(stringr)
