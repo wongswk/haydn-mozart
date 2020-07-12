@@ -1,0 +1,23 @@
+
+                          M0         Pair_int_desc_perc.4                    SD_time_4   Dev_count_14_thresh4.244.1 
+                         285                          285                          285                          274 
+   Dev_count_8_thresh4.024.2              Recap_t_acc_8.1     voicepair_int_dist_3_1.2            Prop_m3_mean_18.1 
+                         271                          269                          244                          190 
+           Prop_m3_mean_16.1               Prop_m3_sd_8.2       Pair_int_dist_perc_3.2              Prop_m3_sd_14.2 
+                          89                           47                           31                           27 
+            Prop_m3_mean_8.2       Pair_int_dist_perc_5.1   Dev_count_10_thresh3.987.2                 mean_pitch_4 
+                          13                           10                            9                            8 
+               count_pitch_4   Dev_count_10_thresh4.683.1          Prop_m3_num_.6_16.2               Expo_perc_16.4 
+                           7                            7                            7                            6 
+   voicepair_int_dist_11_3.4                count_pitch_2                Expo_acc_10.2                 Expo_acc_8.2 
+                           6                            5                            5                            5 
+       Pair_int_major_perc.4            Prop_m3_num_0_8.4     voicepair_int_dist_9_2.4             Prop_m3_max_10.2 
+                           5                            5                            5                            4 
+  Dev_count_10_thresh4.982.1   Dev_count_18_thresh4.259.3                  mean_time_4             Prop_m3_max_18.2 
+                           3                            2                            2                            2 
+          Prop_m3_num_.6_8.2    voicepair_int_dist_11_1.3    Dev_count_8_thresh4.393.1 Dev_count_t_12_thresh0.251.4 
+                           2                            2                            1                            1 
+ Dev_count_t_12_thresh0.27.4  Dev_count_t_8_thresh0.219.3                  Dev_SD_18.2              Prop_m3_max_8.2 
+                           1                            1                            1                            1 
+              Prop_m3_q3_8.3              Prop_m3_sd_14.1     voicepair_int_dist_3_2.3 
+                           1                            1                            1 

@@ -1,0 +1,87 @@
+name,quartet_name,num_mvmts,set_abb,date,set_name,notes
+"No. 1, K. 80/73f",80,4,1,1770,No. 1,
+"No. 2, K. 155/134a",155,3,M,1772,Milanese,oct.-nov. 1772
+"No. 3, K. 156",156,3,M,1772,Milanese,late 1772
+"No. 4, K. 157",157,3,M,1772-1773,Milanese,
+"No. 5, K. 158",158,2,M,1772-1773,Milanese,
+"No. 6, K. 159",159,2,M,1773,Milanese,early 1773
+"No. 7, K. 160 ",160,2,M,1773,Milanese,early 1773
+"No. 8, K. 168",168,4,V,1773.2,Viennese,aug. 1773
+"No. 9, K. 169",169,3,V,1773.2,Viennese,aug 1773
+"No. 10, K. 170",170,3,V,1773.2,Viennese,aug 1773
+"No. 11, K. 171",171,4,V,1773.2,Viennese,aug. 1773
+"No. 12, K. 172",172,3,V,1773.3,Viennese,sept. 1773
+"No. 13, K. 173",173,3,V,1773.3,Viennese,sept. 1773
+"Flute Quartet No. 1, K. 285",285,3,F,1777,Flute No. 1,
+"Flute Quartet No. 4, K. 298",298,3,F,1786-87,Flute No. 4,
+"Oboe Quartet in F Major, K. 370",370,2,O,1781,Oboe,
+"No. 14, K. 387",387,4,H,1782,Haydn,
+"No. 15, K. 421",421,4,H,1783,Haydn,June 1783
+"No. 16, K. 428",428,3,H,1783.2,Haydn,june-july 1783
+"No. 17, K. 458",458,3,H,1784,Haydn,
+"No. 18, K. 464",464,3,H,1785,Haydn,"jan. 10, 1785"
+"No. 19, K. 465",465,4,H,1785.2,Haydn,"jan. 14, 1785"
+"No. 20, K. 499",499,3,20,1786,No. 20,
+"Adagio and Fugue in C minor, K. 546",546,2,A,1788,Adagio & Fugue,
+"No. 21, K. 575",575,2,P,1789,Prussian,
+"No. 22, K. 589",589,3,P,1790,Prussian,may 1790
+"No. 23, K. 590",590,4,P,1790.2,Prussian,june 1790
+"Op. 1, No. 0, Hob II:6",op1_no0,3,1,1755-58,Op. 1,
+"Op. 1, No. 1, Hob III:1",op1_no1,5,1,1755-58,Op. 1,
+"Op. 1, No. 2, Hob III:2",op1_no2,5,1,1755-58,Op. 1,
+"Op. 1, No. 3, Hob III:3",op1_no3,4,1,1755-58,Op. 1,
+"Op. 1, No. 4, Hob III:4",op1_no4,5,1,1755-58,Op. 1,
+"Op. 1, No. 6, Hob III:6",op1_no6,4,1,1755-58,Op. 1,
+"Op. 9, No. 2, Hob III:20",op9_no2,4,9,1769-70,Op. 9,
+"Op. 9, No. 3, Hob III:21",op9_no3,3,9,1769-70,Op. 9,
+"Op. 103 (incomplete), Hob III:83",op103,1,103,1803,Op. 103,
+"Op. 17, No. 1, Hob III:25",op17_no1,4,17,1771,Op. 17,
+"Op. 17, No. 2, Hob III:26",op17_no2,4,17,1771,Op. 17,
+"Op. 17, No. 3, Hob III:27",op17_no3,4,17,1771,Op. 17,
+"Op. 17, No. 5, Hob III:29",op17_no5,4,17,1771,Op. 17,
+"Op. 17, No. 6, Hob III:30",op17_no6,4,17,1771,Op. 17,
+"Op. 20, No. 1, Hob III:31",op20_no1,3,S,1772,Sun,
+"Op. 20, No. 2, Hob III:32",op20_no2,3,S,1772,Sun,
+"Op. 20, No. 3, Hob III:33",op20_no3,3,S,1772,Sun,
+"Op. 20, No. 4, Hob III:34",op20_no4,2,S,1772,Sun,
+"Op. 20, No. 5, Hob III:35",op20_no5,4,S,1772,Sun,
+"Op. 20, No. 6, Hob III:36",op20_no6,3,S,1772,Sun,
+"Op. 33, No. 1, Hob III:37",op33_no1,4,R,1781,Russian,
+"Op. 33, No. 2, Hob III:38",op33_no2,4,R,1781,Russian,
+"Op. 33, No. 3, Hob III:39",op33_no3,3,R,1781,Russian,
+"Op. 33, No. 4, Hob III:40",op33_no4,4,R,1781,Russian,
+"Op. 33, No. 5, Hob III:41",op33_no5,4,R,1781,Russian,
+"Op. 33, No. 6, Hob III:42",op33_no6,4,R,1781,Russian,
+"Op. 42, Hob III:43",op42,4,42,1785,Op. 42,
+"Op. 50, No.1, Hob III:44",op50_no1,4,P,1787,Prussian,
+"Op. 50, No.2, Hob III:45",op50_no2,4,P,1787,Prussian,
+"Op. 50, No.3, Hob III:46",op50_no3,3,P,1787,Prussian,
+"Op. 50, No.4, Hob III:47",op50_no4,3,P,1787,Prussian,
+"Op. 50, No.5, Hob III:48",op50_no5,2,P,1787,Prussian,
+"Op. 50, No.6, Hob III:49",op50_no6,4,P,1787,Prussian,
+"Op. 54, No. 1, Hob III:57",op54_no1,4,T1,1788,Tost1,
+"Op. 54, No. 2. Hob III:58",op54_no2,3,T1,1788,Tost1,
+"Op. 54, No. 3, Hob III:59",op54_no3,4,T1,1788,Tost1,
+"Op. 55, No. 1, Hob III:60",op55_no1,3,T1,1788,Tost1,
+"Op. 55, No. 2, Hob III:61",op55_no2,4,T1,1788,Tost1,
+"Op. 55, No. 3, Hob III:62",op55_no3,3,T1,1788,Tost1,
+"Op. 64, No. 1, Hob III:65",op64_no1,2,T2,1790,Tost2,
+"Op. 64, No. 2, Hob III: 68",op64_no2,2,T2,1790,Tost2,
+"Op. 64, No. 3, Hob III:67",op64_no3,3,T2,1790,Tost2,
+"Op. 64, No. 4, Hob III:66",op64_no4,4,T2,1790,Tost2,
+"Op. 64, No. 5, Hob III:63",op64_no5,3,T2,1790,Tost2,
+"Op. 64, No. 6, Hob III:64",op64_no6,4,T2,1790,Tost2,
+"Op. 71, No. 1, Hob III:69",op71_no1,4,A,1793,Apponyi,
+"Op. 71, No. 2, Hob III:70",op71_no2,4,A,1793,Apponyi,
+"Op. 71, No. 3, Hob III:71",op71_no3,4,A,1793,Apponyi,
+"Op. 74, No. 1, Hob III:72",op74_no1,4,A,1793,Apponyi,
+"Op. 74, No. 2, Hob III:73",op74_no2,3,A,1793,Apponyi,
+"Op. 74, No. 3, Hob III:74",op74_no3,3,A,1793,Apponyi,
+"Op. 76, No. 1, Hob III:75",op76_no1,3,E,1797,Erdody,
+"Op. 76, No. 2, Hob III:76",op76_no2,2,E,1797,Erdody,
+"Op. 76, No. 3, Hob III:77",op76_no3,2,E,1797,Erdody,
+"Op. 76, No. 4, Hob III:78",op76_no4,4,E,1797,Erdody,
+"Op. 76, No. 5, Hob III:79",op76_no5,4,E,1797,Erdody,
+"Op. 76, No. 6, Hob III:80",op76_no6,3,E,1797,Erdody,
+"Op. 77, No. 1, Hob III:81",op77_no1,3,L,1799,Lobkowitz,
+"Op. 77, No. 2, Hob III:82",op77_no2,2,L,1799,Lobkowitz,

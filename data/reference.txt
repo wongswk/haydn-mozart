@@ -1,0 +1,5 @@
+This folder contains the collection of **kern scores for the HM107 and HM285 datasets in their respective subfolders.
+
+Data source: KernScores at the Center for Computer Assisted Research in the Humanities (http://kern.ccarh.org/)
+
+All original copyright notices have been retained. Some files in the HM107 dataset include corrections by Dr. Peter van Kranenburg and are used with the author's permission.
