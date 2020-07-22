@@ -636,9 +636,13 @@ Prop_m3.mat.2=matrix(unlist(Prop_m3.2),nrow=(num*length(name)),ncol=9,byrow=T)
 Prop_m3.mat.3=matrix(unlist(Prop_m3.3),nrow=(num*length(name)),ncol=9,byrow=T)
 Prop_m3.mat.4=matrix(unlist(Prop_m3.4),nrow=(num*length(name)),ncol=9,byrow=T)
 
-#Omit min and max proportion of m3 intervals, since the variability is too low.
-# NOTE: In HM107 dataset, variability is too low for median with thresholds 16 and 18 for violin 2 
-# and for median for thresholds 14, 16, and 18 for violin 1. 
+# NOTE: Here, as data pre-processing, we remove some summary statistics of the proportions of minor third relative pitch intervals, because the variability is approximately 0. 
+# In both datasets:
+#     - we remove all minimum and first quartile summary statistics, since almost all take the same value of 0. 
+#     - we remove most of the median summary statistics, since almost all have repeated values of 0 too. 
+# In HM107: 
+#     - we will additionally remove 5 more median summary statistics (done at the end of this script), because of the low variability/repeated 0s problem. 
+
 string=c("med","mean","q3","max","sd","num_0","num_.6")
 Prop_m3.1.out=NULL; Prop_m3.2.out=NULL; Prop_m3.3.out=NULL; Prop_m3.4.out=NULL; 
 name.1=NULL;name.2=NULL;name.3=NULL;name.4=NULL
@@ -860,7 +864,9 @@ for (j in 1:ncol(Feature.df)){
 }
 
 if (dataset == "HM107") {
-  Feature.df = Feature.df[, -c(607, 608, 645:647)] # these columns are NAs because there is too little variability in minor third interval median proportions for certain thresholds and instruments
+  # As noted in lines 639-644 of this script, for pre-processing we will remove 5 more median proportion of minor third relative pitch interval features in the HM107 dataset, 
+  # due to problems of 0-variance and repeated 0s. 
+  Feature.df = Feature.df[, -c(607, 608, 645:647)]
 }
 
 filename = paste0(home_path, "/outputs/Feature_", dataset, ".csv")

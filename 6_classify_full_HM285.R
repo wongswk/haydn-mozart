@@ -100,7 +100,7 @@ make_relfreq_plot = function() {
   Feature_subset$Composer = factor(Feature_subset$Composer, levels=c("Mozart", "Haydn"))
   Feature_subset = Feature_subset[]
   plot_names=c("SD of duration for Violin 1", 
-               "Prop. of desc. intervals for Violin 1","Diff. in prop. of semitone 3 intervals for Viola & Cello", "Mean prop. of m3 intervals for Viola",
+               "Prop. of desc. intervals for Violin 1","Diff. in prop. of m3 intervals for Viola & Cello", "Mean prop. of m3 intervals for Viola",
                "SD count for pitch & Viola", "SD count for pitch & Cello",
                "Max. fraction for duration & Viola")
   feature_names=c(rep("(Basic)", 1), rep("(Interval)", 3), rep("(Development)", 2), rep("(Recapitulation)", 1))
